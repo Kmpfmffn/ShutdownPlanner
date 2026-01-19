@@ -1,0 +1,13 @@
+﻿  dummy.cpp
+  auibar.cpp
+  auibook.cpp
+  dockart.cpp
+  floatpane.cpp
+  framemanager.cpp
+  tabart.cpp
+  tabmdi.cpp
+  xh_auitoolb.cpp
+  tabartmsw.cpp
+  barartmsw.cpp
+  xh_aui.cpp
+  wx_aui.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_x64_lib\wxmsw33u_aui.lib

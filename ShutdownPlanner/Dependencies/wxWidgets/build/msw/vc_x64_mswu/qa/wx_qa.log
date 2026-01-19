@@ -1,0 +1,4 @@
+﻿  dummy.cpp
+  debugrpt.cpp
+  dbgrptg.cpp
+  wx_qa.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_x64_lib\wxmsw33u_qa.lib

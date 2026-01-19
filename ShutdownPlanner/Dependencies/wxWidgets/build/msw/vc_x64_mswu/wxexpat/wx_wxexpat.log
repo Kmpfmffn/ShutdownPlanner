@@ -1,0 +1,4 @@
+﻿  xmlparse.c
+  xmlrole.c
+  xmltok.c
+  wx_wxexpat.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_x64_lib\wxexpat.lib

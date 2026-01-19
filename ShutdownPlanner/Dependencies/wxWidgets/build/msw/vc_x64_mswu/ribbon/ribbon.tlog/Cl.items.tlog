@@ -1,0 +1,12 @@
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\dummy.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\dummy.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\art_aui.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\art_aui.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\art_internal.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\art_internal.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\art_msw.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\art_msw.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\bar.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\bar.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\buttonbar.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\buttonbar.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\control.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\control.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\gallery.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\gallery.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\page.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\page.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\panel.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\panel.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\ribbon\toolbar.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\toolbar.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\xrc\xh_ribbon.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_x64_mswu\ribbon\xh_ribbon.obj

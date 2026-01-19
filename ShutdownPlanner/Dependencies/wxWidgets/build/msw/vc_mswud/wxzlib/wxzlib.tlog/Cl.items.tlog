@@ -1,0 +1,15 @@
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\adler32.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\adler32.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\compress.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\compress.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\crc32.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\crc32.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\deflate.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\deflate.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\gzclose.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\gzclose.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\gzlib.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\gzlib.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\gzread.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\gzread.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\gzwrite.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\gzwrite.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\infback.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\infback.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\inffast.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\inffast.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\inflate.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\inflate.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\inftrees.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\inftrees.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\trees.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\trees.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\uncompr.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\uncompr.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\zlib\zutil.c;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\wxzlib\zutil.obj

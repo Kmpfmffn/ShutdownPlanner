@@ -1,0 +1,7 @@
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\dummy.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\dummy.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\webview.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\webview.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\webviewarchivehandler.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\webviewarchivehandler.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\webviewfshandler.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\webviewfshandler.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\webview_chromium.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\webview_chromium.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\msw\webview_ie.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\webview_ie.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\msw\webview_edge.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswu\webview\webview_edge.obj

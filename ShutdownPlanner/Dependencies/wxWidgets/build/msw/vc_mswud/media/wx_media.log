@@ -1,0 +1,6 @@
+﻿  dummy.cpp
+  mediactrlcmn.cpp
+  mediactrl_am.cpp
+  mediactrl_qt.cpp
+  mediactrl_wmp10.cpp
+  wx_media.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_lib\wxmsw33ud_media.lib

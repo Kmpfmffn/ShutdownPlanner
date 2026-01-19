@@ -1,0 +1,6 @@
+﻿  dummy.cpp
+  PlatWX.cpp
+  ScintillaWX.cpp
+  stc.cpp
+  xh_styledtextctrl.cpp
+  wx_stc.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_x64_lib\wxmsw33ud_stc.lib

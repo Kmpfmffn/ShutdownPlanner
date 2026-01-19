@@ -1,0 +1,4 @@
+﻿  dummy.cpp
+  glcmn.cpp
+  glcanvas.cpp
+  wx_gl.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_lib\wxmsw33u_gl.lib

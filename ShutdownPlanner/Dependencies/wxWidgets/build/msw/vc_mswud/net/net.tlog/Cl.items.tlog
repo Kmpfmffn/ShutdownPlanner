@@ -1,0 +1,16 @@
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\dummy.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\dummy.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\fs_inet.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\fs_inet.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\ftp.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\ftp.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\http.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\http.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\protocol.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\protocol.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\sckaddr.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\sckaddr.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\sckfile.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\sckfile.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\sckipc.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\sckipc.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\sckstrm.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\sckstrm.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\socket.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\socket.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\url.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\url.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\msw\sockmsw.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\sockmsw.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\msw\urlmsw.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\urlmsw.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\webrequest.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\webrequest.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\msw\webrequest_winhttp.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\webrequest_winhttp.obj
+C:\dev\ShoppingList\Dependencies\wxWidgets\src\common\webrequest_curl.cpp;C:\dev\ShoppingList\Dependencies\wxWidgets\build\msw\vc_mswud\net\webrequest_curl.obj

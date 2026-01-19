@@ -1,0 +1,4 @@
+﻿  dummy.cpp
+  xtixml.cpp
+  xml.cpp
+  wx_xml.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_x64_lib\wxbase33u_xml.lib

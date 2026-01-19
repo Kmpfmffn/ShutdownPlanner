@@ -1,0 +1,17 @@
+﻿  dummy.cpp
+  fs_inet.cpp
+  ftp.cpp
+  http.cpp
+  protocol.cpp
+  sckaddr.cpp
+  sckfile.cpp
+  sckipc.cpp
+  sckstrm.cpp
+  socket.cpp
+  url.cpp
+  sockmsw.cpp
+  urlmsw.cpp
+  webrequest.cpp
+  webrequest_winhttp.cpp
+  webrequest_curl.cpp
+  wx_net.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_lib\wxbase33ud_net.lib

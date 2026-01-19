@@ -1,0 +1,13 @@
+﻿  dummy.cpp
+  richtextbuffer.cpp
+  richtextctrl.cpp
+  richtextformatdlg.cpp
+  richtexthtml.cpp
+  richtextimagedlg.cpp
+  richtextprint.cpp
+  richtextstyledlg.cpp
+  richtextstyles.cpp
+  richtextsymboldlg.cpp
+  richtextxml.cpp
+  xh_richtext.cpp
+  wx_richtext.vcxproj -> C:\dev\ShoppingList\Dependencies\wxWidgets\lib\vc_x64_lib\wxmsw33u_richtext.lib
