@@ -18,11 +18,18 @@ enum {
 };
 
 // TODO: 
-// Make timer editable from settings
-// Add icon
-// Change about section
-// Push to github and add to website
+// - Make timer editable from settings
+// - Add icon
+// - Change about section
+// - Push to github [done]
+// - Add to website
+// - Desktop dimmer implementation
 // 
+//
+
+// TODO: delete
+wxPanel* mainPanel;
+wxBoxSizer* topSizer;
 //
 
 MainFrame::MainFrame()
@@ -49,7 +56,12 @@ MainFrame::MainFrame()
 	SetStatusText("Welcome to wxWidgets!");
 	#endif // IS_DEBUG
 	// Bind Events to MenuBar
-	Bind(wxEVT_MENU, [=](wxCommandEvent&) { wxLogMessage("Edit timers here:\n Under Construction!"); }, ID_EDIT_TIMES);
+	Bind(wxEVT_MENU, [&](wxCommandEvent&) {
+		m_PlayPauseButton->SetBackgroundColour(wxColor(100, 100, 100));
+		/*wxTopLevelWindow* topLevelWindow = new wxTopLevelWindow(this, wxID_ANY, "Top Level");
+		topLevelWindow->Show(true);
+		wxPanel* panel = new wxPanel(topLevelWindow, wxID_ANY);*/
+		}, ID_EDIT_TIMES);
 	Bind(wxEVT_MENU, [=](wxCommandEvent&) { wxMessageBox("This is the content!", "Title", wxOK | wxICON_INFORMATION); }, wxID_ABOUT);
 	Bind(wxEVT_MENU, [=](wxCommandEvent&) { Close(true); }, wxID_EXIT);
 
