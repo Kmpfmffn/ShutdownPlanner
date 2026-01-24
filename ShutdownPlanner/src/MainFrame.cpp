@@ -19,7 +19,7 @@ enum {
 
 // TODO: 
 // - Make timer editable from settings
-// - Add icon
+// - Add icon [done]
 // - Change about section
 // - Push to github [done]
 // - Add to website
@@ -58,9 +58,9 @@ MainFrame::MainFrame()
 	// Bind Events to MenuBar
 	Bind(wxEVT_MENU, [&](wxCommandEvent&) {
 		m_PlayPauseButton->SetBackgroundColour(wxColor(100, 100, 100));
-		/*wxTopLevelWindow* topLevelWindow = new wxTopLevelWindow(this, wxID_ANY, "Top Level");
+		wxTopLevelWindow* topLevelWindow = new wxTopLevelWindow(this, wxID_ANY, "Top Level");
 		topLevelWindow->Show(true);
-		wxPanel* panel = new wxPanel(topLevelWindow, wxID_ANY);*/
+		wxPanel* panel = new wxPanel(topLevelWindow, wxID_ANY);
 		}, ID_EDIT_TIMES);
 	Bind(wxEVT_MENU, [=](wxCommandEvent&) { wxMessageBox("This is the content!", "Title", wxOK | wxICON_INFORMATION); }, wxID_ABOUT);
 	Bind(wxEVT_MENU, [=](wxCommandEvent&) { Close(true); }, wxID_EXIT);

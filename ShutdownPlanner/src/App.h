@@ -13,7 +13,4 @@ public:
 
 	App();
 	~App();
-
-private:
-
 };
